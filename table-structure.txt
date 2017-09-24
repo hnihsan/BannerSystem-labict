@@ -1,0 +1,9 @@
+users :
+
+Startup :
+-Id
+-Nama Event
+-masa aktif
+-status (aktif,nonaktif)
+-filename
+-uploader
